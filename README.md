@@ -1,0 +1,2 @@
+# Vehicle_Number_Plate_Detection_Using_ImageProcessing
+The project is an efficient algorithm  developed to detect a license plate in various luminance conditions. This algorithm extracts the license plate data from an image and provides it as an input to the stage of Car License Plate Recognition. This algorithm can be downloaded onto Texas Instrument’s TMS320DM6437 digital video development platform/RaspberryPie. The image of a vehicle is given as an input from the camera. Extracted image of the number plate can be seen on television for verification purpose.
